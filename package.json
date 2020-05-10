@@ -4,7 +4,7 @@
   "description": "Evil npm package",
   "main": "index.js",
   "scripts": {
-    "preinstall": "touch /tmp/pwnpwnpwnpwn"
+    "preinstall": "touch /tmp/pwnpwnpnw_jimeno"
   },
   "repository": {
     "type": "git",
