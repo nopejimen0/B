@@ -1,0 +1,19 @@
+{
+  "name": "b",
+  "version": "1.0.0",
+  "description": "Evil npm package",
+  "main": "index.js",
+  "scripts": {
+    "preinstall": "touch /tmp/pwnpwnpwnpwn"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimen0/B.git"
+  },
+  "author": "Miguel Jimeno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jimen0/B/issues"
+  },
+  "homepage": "https://github.com/jimen0/B#readme"
+}
